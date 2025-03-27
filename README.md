@@ -20,3 +20,5 @@ Machine learning labs 5th semester
 Machine learning labs 6th semester
 
 1 — Полносвязная нейронная сеть (Dropout, F1, Accuracy, Loss, функции активации: ReLU, Sigmoid, TanH)
+
+2 — Алгоритм обратного распространения ошибки и методы оптимизации (SDG, ADAM, RMSprop, Momentum)
