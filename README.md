@@ -24,3 +24,6 @@ Machine learning labs 6th semester
 2 — Алгоритм обратного распространения ошибки и методы оптимизации (SDG, ADAM, RMSprop, Momentum)
 
 3 — Сверточные нейронные сети CNN (PyTorch, ReLU, Sigmoid, Adam)
+
+4 — Нормализация данных и иследоваление различных архитектур нейронных сетей (CNN, Сравнение отсутствия нормализации, Batch Normalization, Layer Normalization, Dropout; архитектур ResNet, VGG, MobileNet)
+
