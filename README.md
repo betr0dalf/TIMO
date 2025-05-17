@@ -27,3 +27,5 @@ Machine learning labs 6th semester
 
 4 — Нормализация данных и иследоваление различных архитектур нейронных сетей (CNN, Сравнение отсутствия нормализации, Batch Normalization, Layer Normalization, Dropout; архитектур ResNet, VGG, MobileNet)
 
+5 — Автокодировщики и рекуррентные нейронные сети (RNN, LSTM, GRU)
+
